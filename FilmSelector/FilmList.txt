@@ -1,0 +1,23 @@
+Jaws,Movie,1975,Action,5
+Parasite,Movie,2019,Comedy,3.75
+Step Brothers,Movie,2008,Comedy,3.5
+Black Panther,Movie,2018,Action,4.5
+Room,Movie,2015,Drama,4
+The Dark Knight,Movie,2008,Action,5
+Riverdale,Series,2017,Drama,3
+The Office,Series,2005,Comedy,5
+Java Heat,Movie,2013,Action,2.5
+1917,Movie,2019,Drama,4
+Little Women,Movie,2019,Drama,5
+New Girl,Series,2011,Comedy,4.5
+Schitt's Creek,Series,2015,Comedy,5
+Saving Private Ryan,Movie,1998,Drama,5
+Cast Away,Movie,2000,Drama,4.3
+Gladiator,Movie,2000,Action,4
+As Good As It Gets,Movie,1997,Drama,4.5
+Vacation,Movie,2015,Comedy,3
+Kingpin,Movie,1996,Comedy,3.5
+Ghostbusters,Movie,1984,Comedy,4
+The Good Place,Series,2016,Comedy,4.5
+Arrested Development,Series,2003,Comedy,4
+Mindhunter,Series,2017,Drama,4.75
